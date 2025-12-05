@@ -23,7 +23,7 @@
 		<authentication-provider>
 			<user-service>
 				<user name="admin" password="admin" authorities="ROLE_ADMIN" />
-				<user name="manoj" password="1234" authorities="ROLE_ADMIN" />
+				<user name="pramod" password="1234" authorities="ROLE_ADMIN" />
 			</user-service>
 		</authentication-provider>
 	</authentication-manager>
